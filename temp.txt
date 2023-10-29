@@ -1,0 +1,21 @@
+name: 1]Name:- (Textbox)
+dob 2]Birthday:- (DatePicker)
+email 15]Email id:-(text)
+phone 16]mobile no:-(text)
+gender 3]Gender: (Radio)
+pic 7]Profile Photo. (single image)
+state 4]State :-(DropDown)
+city 5]City:- City should be based on  State
+education[field] education[year] 6]Education and Year_Of_Completion :-(should be able to add  and remove these two fields functionality. user can add any number of details)
+skill 8]Skill:- (need to use select2 plugin with the user can able to select multiple skill)
+certificates 9]upload certificates:- (It should be multi-upload)
+
+profession 10]profession: - Salaried, Self-employed (radio button)
+
+company_name: 11]company name(text box) show if he is salaried
+started_year 12]job started from : (date) show if he is salaried
+
+business_name 13]business name:- (text) show if he selects self-employed
+location 14]location:- (text) show if he selects self-employed
+
+
