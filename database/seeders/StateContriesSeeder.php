@@ -28,23 +28,23 @@ class StateContriesSeeder extends Seeder
                 "cities" => ["Guwahati", "Dispur"]
             ],
             [
-                "name" => ": Bihar",
+                "name" => "Bihar",
                 "cities" => ["Patna"]
             ],
             [
-                "name" => ": Chhattisgarh",
+                "name" => "Chhattisgarh",
                 "cities" => ["Raipur"]
             ],
             [
-                "name" => ": Goa",
+                "name" => "Goa",
                 "cities" => ["Panaji"]
             ],
             [
-                "name" => ": Gujarat",
+                "name" => "Gujarat",
                 "cities" => ["Ahmedabad", "Gandhinagar"]
             ],
             [
-                "name" => ": Haryana",
+                "name" => "Haryana",
                 "cities" => ["Chandigarh"]
             ]
         ];
